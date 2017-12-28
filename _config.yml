@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Chudakov Aleksandr
+name: Iudanet's
 
 # Short bio or description (displayed in the header)
-description: 
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-avatar: images/SW-man.jpg
+avatar: /images/SW-man.jpg
 
 #
 # Flags below are optional
