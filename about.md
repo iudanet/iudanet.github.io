@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Всяческая информация обо мне
+работа
+учеба
+хобби
 
-### More Information
+### Дополнительня информация
 
-A place to include any other types of information that you'd like to include about yourself.
+а как же всякая ересь про Аниме?
 
-### Contact me
+### Мои контакты
 
-[email@domain.com](mailto:email@domain.com)
+[chudo88@gmail.com](mailto:chudo88@gmail.com)
