@@ -13,7 +13,7 @@ permalink: /about/
 ### Хобби
 * Аниме
 * Манга
-* [Книги](/books)
+* [Книги]({{ site.baseurl }}{% link books.md %})
 * Сетевые технологии
 * [Кендо](http://www.shogunclub.ru/)
 * Походы
