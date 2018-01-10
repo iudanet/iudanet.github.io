@@ -9,5 +9,5 @@ permalink: /books/
 
 
 ## 2018
-![Житие Мое|150](/images/books-2018-1.jpeg)
+<img src="/images/books-2018-1.jpeg" width="150" title="Житие мое">
 * Житие Мое (Ирина Владимировна Сыромятникова)
