@@ -1,6 +1,6 @@
 ---
 layout: page
-title: О бо мне...
+title: About
 permalink: /about/
 ---
 
