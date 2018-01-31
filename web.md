@@ -5,4 +5,5 @@ permalink: /web/
 ---
 
 ## Новости
-* habrahabr.ru 
+* habrahabr.ru
+* Установка FTP [ссылка](https://losst.ru/ustanovka-ftp-na-ubuntu-16-04) 
