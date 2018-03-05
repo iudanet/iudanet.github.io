@@ -47,7 +47,8 @@ p2q+Lq1KDIPfVRFz2N3LjIq2
 sudo dpkg-reconfigure ca-certificates
 ```
 6. Отправить тестовое письмо
-```bash
+
+```
 #!/bin/sh
 USER=""
 PASSWORD=""
