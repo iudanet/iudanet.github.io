@@ -48,7 +48,6 @@ sudo dpkg-reconfigure ca-certificates
 ```
 6. Отправить тестовое письмо
 ```bash
-
 #!/bin/sh
 USER=""
 PASSWORD=""
@@ -62,7 +61,6 @@ sendEmail -vvv \
  -xp $PASSWORD \
  -u "Привет Мир" \
  -m "Я отправил сообщение:  How are you? I'm testing sendEmail from the command line."
-
 ```
 
 
