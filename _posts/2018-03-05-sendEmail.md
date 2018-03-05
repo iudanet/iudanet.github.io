@@ -2,6 +2,9 @@
 layout: post
 title: SendEmail exchange
 ---
+
+- Нстройка SendEmail + Star tls + Самоподписанный сертификат сервера
+
 1. Установим SendEmail и доп модули
  ```bash
 sudo apt install  sendemail libio-socket-ssl-perl libnet-ssleay-perl
